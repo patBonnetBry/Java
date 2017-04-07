@@ -1,4 +1,5 @@
 #import java.util.*;
+/* Dummy comment */
 class Decimal_Octal
 {
   public static void main()
